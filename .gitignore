@@ -1,1 +1,3 @@
 /target
+/processor/a.out
+/processor/dump.vcd
